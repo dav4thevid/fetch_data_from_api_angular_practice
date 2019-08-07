@@ -10,7 +10,7 @@ import { ContactusComponent } from './contactus/contactus.component';
 import { HomeComponent } from './home/home.component';
 
 @NgModule({
-  declarations: [
+  declarations: [ 
     AppComponent,
     NavbarComponent,
     AboutComponent,
